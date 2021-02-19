@@ -1,3 +1,6 @@
 [submodule "starter-academic"]
 	path = starter-academic
 	url = https://github.com/wowchemy/starter-academic.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

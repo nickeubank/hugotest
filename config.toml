@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Nick Eubank"
-theme = "Academic"
+theme = "starter-academic"
